@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+
+s1 = 72
+s2 = 85
+r = 72/85*100
+print('growth rate: %.2f %%' % r )
